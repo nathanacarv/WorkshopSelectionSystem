@@ -1,0 +1,7 @@
+WorkshopSelector/bin/
+WorkshopSelector/obj/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
